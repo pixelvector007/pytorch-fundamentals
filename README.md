@@ -142,7 +142,10 @@ pytorch-fundamentals/
 ```
 
 ---
+<div align="center">
 
 ⭐ More PyTorch projects and experiments will be added as I continue learning **Machine Learning, Deep Learning, and Artificial Intelligence**.
 
-Made with ❤️ by Arpit Kushwaha
+Made with ❤️ by **Arpit Kushwaha**
+
+</div>
