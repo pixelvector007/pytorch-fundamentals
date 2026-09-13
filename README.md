@@ -132,10 +132,13 @@ This serves as a foundation for future work in **Deep Learning, Computer Vision,
 ## 📂 Repository Structure
 
 ```text
-.
+pytorch-fundamentals/
+├── README.md
 ├── 01_pytorch_workflow_fundamentals.ipynb
 ├── 02_pytorch_workflow_with_nn_linear.ipynb
-└── README.md
+└── models/
+    ├── model_v1_from_scratch.pth
+    └── model_v2_nn_linear.pth
 ```
 
 ---
