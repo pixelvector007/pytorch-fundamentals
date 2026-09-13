@@ -135,6 +135,7 @@ This serves as a foundation for future work in **Deep Learning, Computer Vision,
 pytorch-fundamentals/
 ├── README.md
 ├──.gitignore
+├── helper_functions.py
 ├── 01_pytorch_workflow_fundamentals.ipynb
 ├── 02_pytorch_workflow_with_nn_linear.ipynb
 └── models/
