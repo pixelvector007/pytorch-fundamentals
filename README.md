@@ -132,14 +132,20 @@ This serves as a foundation for future work in **Deep Learning, Computer Vision,
 ## 📂 Repository Structure
 
 ```text
-.
+pytorch-fundamentals/
+├── README.md
 ├── 01_pytorch_workflow_fundamentals.ipynb
 ├── 02_pytorch_workflow_with_nn_linear.ipynb
-└── README.md
+└── models/
+    ├── model_v1_from_scratch.pth
+    └── model_v2_nn_linear.pth
 ```
 
 ---
+<div align="center">
 
 ⭐ More PyTorch projects and experiments will be added as I continue learning **Machine Learning, Deep Learning, and Artificial Intelligence**.
 
-Made with ❤️ by Arpit Kushwaha
+Made with ❤️ by **Arpit Kushwaha**
+
+</div>
